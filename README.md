@@ -22,6 +22,11 @@ The model is built using a Sequential architecture with the following layers:
 ## Gradio App
 At the end of the project, a Gradio app is developed, allowing users to input comments and receive predictions on whether the comment is toxic, hateful, or threatening.
 
+## My Future Work
+- Model Improvements: Currently, working to enhance the model's accuracy and performance.
+- Better UI: Plans to improve the user interface for a more seamless experience.
+- User Contributions: In the future, users will be able to contribute comments to the dataset to further improve the model's quality.
+
 ## Tech Stacks Used
 - Python: Programming language used for the implementation.
 - TensorFlow: Framework for building and training the deep learning model.
