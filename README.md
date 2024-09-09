@@ -22,6 +22,12 @@ The model is built using a Sequential architecture with the following layers:
 ## Gradio App
 At the end of the project, a Gradio app is developed, allowing users to input comments and receive predictions on whether the comment is toxic, hateful, or threatening.
 
+![image](https://github.com/user-attachments/assets/11c3cfce-225e-49e1-b394-fb6d5a181f4f)
+
+![image](https://github.com/user-attachments/assets/859c581a-16b1-4e52-80e3-1d3bdc007e1e)
+
+
+
 ## My Future Work
 - Model Improvements: Currently, working to enhance the model's accuracy and performance.
 - Better UI: Plans to improve the user interface for a more seamless experience.
